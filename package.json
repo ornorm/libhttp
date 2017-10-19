@@ -1,6 +1,6 @@
 {
   "name": "libhttp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP library for the web using some Hubrisjs modules",
   "main": "index.js",
   "directories": {
