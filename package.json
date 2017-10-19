@@ -1,0 +1,41 @@
+{
+  "name": "libhttp",
+  "version": "1.0.0",
+  "description": "HTTP library for the web using some Hubrisjs modules",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libhttp.git"
+  },
+  "keywords": [
+    "HTTPStatus",
+    "HTTPRequestLine",
+    "HTTPStatusLine",
+    "HTTPMessage",
+    "HTTPQuery",
+    "HTTPResponse",
+    "HTTPRequest",
+    "HTTPRequestHandler",
+    "HTTPConnection",
+    "HTTPWorker",
+    "HTTPFuture",
+    "UrlContentHandler",
+    "UrlStreamHandlerFactory",
+    "UrlParts",
+    "Url",
+    "UrlContentHandlerFactory",
+    "UrlStreamHandler"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libhttp/issues"
+  },
+  "homepage": "https://github.com/ornorm/libhttp#readme"
+}
